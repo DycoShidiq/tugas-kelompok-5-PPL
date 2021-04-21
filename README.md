@@ -1,7 +1,6 @@
 # tugas-kelompok-5-PPL
 
- NIM         -     Nama               -     Role 
-
+ NIM-Nama-Role 
 
 1.A11.2018.11559 - Dyco Shidiq K (*)Project Leader
 2.A11.2018.11522 - Andre LH (*)Front-End Progammer
